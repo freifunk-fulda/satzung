@@ -1,4 +1,4 @@
 satzung
 =======
 
-The constitution of the mag.lab
+The constitution of the Freifunk Osthessen
