@@ -1,4 +1,4 @@
 satzung
 =======
 
-The constitution of the Förderverein Freie Netze in Hessen
+The constitution of the Freifunk Fulda Verein
